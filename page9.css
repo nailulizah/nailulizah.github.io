@@ -1,0 +1,19 @@
+<style>
+.coba {
+  
+}
+    img {
+     float: right;
+     margin: 0 0 1em 1em;
+   }
+   body {
+    margin-bottom: 120px;
+    text-align: justify;
+    font-weight: lighter;
+    font-style: italic;
+    border: solid;
+    border-color: rgb(196, 125, 63);
+    border size: 3px;
+    padding: 20px
+   }
+    </style>

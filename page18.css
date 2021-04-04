@@ -1,0 +1,105 @@
+<style>
+    .coba {
+    }
+    .container {
+     display: -webkit-flex;
+     display: flex;
+     border: solid;
+     border-color: peachpuff;
+     background-color: rgb(236, 231, 227);
+     border size: 3px;
+    }
+    .flex-column {
+     -webkit-flex: 1;
+    flex: 1;
+    background-color: plum;
+     border-color: rgb(255, 221, 221);
+     background-color: rgb(150, 107, 115);
+     border size: 3px;
+     text-align: justify;
+    }
+    .section1 {
+     border: solid;
+     border-color: rgb(192, 146, 105);
+     border size: 3px;
+     padding: 20px;
+    }
+    .section2 {
+     border: solid;
+     border-color: rgb(231, 194, 162);
+     border size: 3px;
+     padding: 20px;
+    }
+    nav {
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+    border: solid;
+     border-color: rgb(192, 146, 105);
+     background-color: pink;
+     border size: 3px;
+    }
+    .container1 {
+    display: -webkit-flex;
+    display: flex;
+    border: solid;
+     border-color: rgb(253, 208, 255);
+     background-color: rgb(247, 220, 224);
+     border size: 3px;
+    }
+    .initial {
+    -webkit-flex: initial;
+    flex: initial;
+    width: 200px;
+    min-width: 100px;
+    border: solid;
+     border-color: rgb(112, 109, 106);
+     background-color: rgb(255, 255, 255);
+     border size: 3px;
+    }
+    .none {
+    -webkit-flex: none;
+    flex: none;
+    width: 200px;
+    border: solid;
+     border-color: rgb(255, 135, 31);
+     background-color: rgb(235, 232, 206);
+     border size: 3px;
+    }
+    .flex1 {
+    -webkit-flex: 1;
+    flex: 1;
+    border: solid;
+     border-color: rgb(159, 154, 179);
+     background-color: rgb(203, 219, 243);
+     border size: 3px;
+    }
+    .flex2 {
+    -webkit-flex: 2;
+    flex: 2;
+    border: solid;
+     border-color: rgb(3, 100, 0);
+     background-color: rgb(184, 218, 183);
+     border size: 3px;
+    }
+    .vertical-container {
+    height: 300px;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    border: solid;
+     border-color: rgb(112, 109, 106);
+     background-color: rgb(255, 255, 255);
+     border size: 3px;
+    }
+    .div {
+     border: solid;
+     border-color: rgb(112, 109, 106);
+     background-color: rgb(255, 255, 255);
+     border size: 3px;
+     padding: 10px;
+    }
+    </style>

@@ -1,0 +1,32 @@
+<style>
+    .coba {
+    }
+    .simple {
+     width: 500px;
+     margin: 20px auto;
+     text-align: center;
+     border: solid;
+     border-color: cadetblue;
+     background-color: cornflowerblue;
+     font-size: 24px;
+     font-weight: bold;
+     font-family: monospace;
+     padding: 20px;
+     color: cornsilk;
+    }
+    .fancy {
+     width: 500px;
+     margin: 20px auto;
+     padding: 50px;
+     border-width: 10px;
+     text-align: right;
+     border: solid;
+     border-color: rgb(1, 115, 119);
+     background-color: rgb(152, 184, 243);
+     font-size: 24px;
+     font-weight: bold;
+     font-family: monospace;
+     padding: 20px;
+     color: rgb(252, 252, 252);
+    }
+</style>

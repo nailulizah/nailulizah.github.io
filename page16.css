@@ -1,0 +1,45 @@
+<style>
+    .coba {
+    }
+    .container {
+    position: relative;
+    padding-bottom: 160px;
+     border: solid;
+     border-color: peachpuff;
+     background-color: rgb(236, 231, 227);
+     border size: 3px;
+    }
+    .section1 {
+     border: solid;
+     border-color: rgb(192, 146, 105);
+     border size: 3px;
+     padding: 20px;
+    }
+    .section2 {
+     border: solid;
+     border-color: rgb(231, 194, 162);
+     border size: 3px;
+     padding: 20px;
+    }
+    nav {
+    display: inline-block;
+    vertical-align: top;
+    width: 24%;
+    border: solid;
+     border-color: rgb(192, 146, 105);
+     background-color: pink;
+     border size: 3px;
+    }
+    .column {
+    display: inline-block;
+    vertical-align: top;
+    width: 75.3%;
+    text-align: justify;
+    border: solid;
+    float: right; 
+     background-color: plum;
+     border-color: rgb(0, 0, 0);
+     background-color: rgb(150, 107, 115);
+     border size: 3px;
+    }
+    </style>

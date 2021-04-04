@@ -1,0 +1,40 @@
+<style>
+.coba {
+}
+    .clearfix {
+     position: relative;
+     border: solid;
+     border-color: peachpuff;
+     background-color: rgb(236, 231, 227);
+     border size: 3px;
+    }
+    nav {
+     float: left;
+     width: 200px;
+     border: solid;
+     border-color: rgb(192, 146, 105);
+     background-color: pink;
+     border size: 3px;
+    }
+    section {
+    /* position is static by default */
+     margin-left: 200px;
+     text-align: justify;
+     background-color: plum;
+    }
+    .section1 {
+     border: solid;
+     border-color: rgb(192, 146, 105);
+     border size: 3px;
+     padding: 20px;
+    }
+    .section2 {
+     border: solid;
+     border-color: rgb(231, 194, 162);
+     border size: 3px;
+     padding: 20px;
+    }
+    body {
+     margin-bottom: 120px;
+    } 
+    </style>

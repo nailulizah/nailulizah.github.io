@@ -1,0 +1,46 @@
+<style>
+.coba{
+}
+.box {
+float: left;
+width: 200px;
+height: 100px;
+margin: 1em;
+font-weight: bold;
+border: solid;
+ border-color: rgb(231, 194, 162);
+ background-color: rgb(206, 231, 255);
+ border size: 3px;
+ padding: 20px;
+}
+.after-box {
+clear: left;
+border: solid;
+font-style: italic;
+ border-color: rgb(231, 194, 162);
+ background-color: rgb(238, 204, 196);
+ border size: 3px;
+ padding: 20px;
+}
+.box2 {
+display: inline-block;
+width: 200px;
+height: 100px;
+margin: 1em;
+border: solid;
+ border-color: rgb(191, 194, 248);
+ background-color: rgb(238, 203, 218);
+ border size: 3px;
+ padding: 20px;
+}
+.div {
+ font-family: helvetica;
+ font-size: 24px;
+ font-weight: bold;
+ border: solid;
+ border-color: rgb(191, 194, 248);
+ background-color: rgb(200, 243, 199);
+ border size: 3px;
+ padding: 20px;
+}
+</style>

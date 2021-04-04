@@ -1,0 +1,26 @@
+<style>
+    .coba {
+    }
+    .static {
+    position: static;
+    top: 20px;
+    left: 20px;
+    font-size: 24px;
+    font-family: monospace;
+    }
+    .relative1 {
+    position: relative;
+    top: 20px;
+    color: honeydew;
+    background-color: indianred;
+    width: 500px;
+    }
+    .relative2 {
+    position: relative;
+    top: 40px;
+    left: 0px;
+    color: floralwhite;
+    background-color: rgb(0, 0, 0);
+    width: 500px;
+    }
+</style>

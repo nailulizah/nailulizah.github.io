@@ -1,0 +1,19 @@
+<style>
+    .coba {
+    }
+    .three-column {
+    padding: 1em;
+    -moz-column-count: 3;
+    -moz-column-gap: 1em;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 1em;
+    column-count: 3;
+    column-gap: 1em;
+    text-align: justify;
+    border: solid;
+    border-color: thistle;
+    background-color: whitesmoke;
+    font-size: 16px;
+    font-style: italic;
+    }
+    </style>

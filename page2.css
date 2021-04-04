@@ -1,0 +1,21 @@
+<style>
+.coba {
+}
+h2 {
+    text-align: center;
+    color: blueviolet;
+    font-style: italic;
+}
+p {
+    text-align: justify;
+    color: rgb(117, 122, 110);
+    font-family: arial;
+}
+div 
+{
+    display: none;
+}
+span {
+    visibility: hidden;
+}
+</style>

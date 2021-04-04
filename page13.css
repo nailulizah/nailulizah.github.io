@@ -1,0 +1,50 @@
+<style>
+.coba {
+
+}
+    article img {
+    float: right;
+    width: 50%;
+    }
+    .clearfix {
+    overflow: auto;
+    border: solid;
+    border-color: thistle;
+    background-color: whitesmoke;
+    }
+    img {
+        float: right;
+    }
+    nav {
+    float: left;
+    width: 25%;
+     border: solid;
+     border-color: rgb(192, 146, 105);
+     background-color: pink;
+     border size: 3px;
+    }
+    section {
+    margin-left: 25%;
+    text-align: justify;
+     background-color: plum;
+    }
+    .section1 {
+     border: solid;
+     border-color: rgb(192, 146, 105);
+     border size: 3px;
+     padding: 20px;
+    }
+    .section2 {
+     border: solid;
+     border-color: rgb(231, 194, 162);
+     border size: 3px;
+     padding: 20px;
+    }
+    .container {
+     position: relative;
+     border: solid;
+     border-color: peachpuff;
+     background-color: rgb(236, 231, 227);
+     border size: 3px;
+    }
+    </style>

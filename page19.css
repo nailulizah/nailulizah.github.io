@@ -1,0 +1,17 @@
+<style>
+.coba {
+}
+div {
+    text-align: justify;
+    font-size: 18px;
+    color: white;
+    background-color: teal;
+    font-style: italic;
+    font-variant: small-caps;
+    width: 700px;
+}
+span {
+    color: rgb(245, 37, 0);
+    background-color: wheat;
+}
+</style>

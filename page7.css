@@ -1,0 +1,63 @@
+<style>
+    .coba {
+    }
+    .static {
+    position: static;
+    background-color: mintcream;
+    border: solid;
+    border-color: rgb(0, 0, 0);
+    padding: 20px;
+    }
+    .relative1 {
+    position: relative;
+    top: 5px;
+    border-style: solid;
+    border-color: lightsalmon;
+    padding-bottom: 20px;
+    }
+    .relative2 {
+    position: relative;
+    top: -10px;
+    left: 20px;
+    font-family: helvetica;
+    font-style: italic;
+    background-color: mistyrose;
+    border-style: solid;
+    border-color: lightpink;
+    width: 200;
+    }
+    .fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 200px;
+    font-size: 18px;
+    color: lavender;
+    background-color: rgb(0, 0, 0);
+    border-style: outset;
+    border-width: 5px;
+    border-color: rgb(105, 181, 206);
+    }
+    .relative {
+     position: relative;
+     top: 60px;
+     right: 0px;
+     width: 600px;
+     height: 400px;
+     padding: 20px;
+     border: solid;
+     border-color: rgb(218, 203, 198);
+     border size: 3px;
+    }
+    .absolute {
+     position: absolute;
+     top: 120px;
+     right: 0px;
+     width: 300px;
+     height: 200px;
+     padding: 10px;
+     border: solid;
+     border-color: orangered;
+     border size: 3px;
+}
+</style>

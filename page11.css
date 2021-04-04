@@ -1,0 +1,18 @@
+<style>
+    .coba {
+    }
+    img {
+     float: right
+    }
+    .clearfix {
+    overflow: auto;
+    border: solid;
+    border-color: thistle;
+    background-color: whitesmoke;
+    }
+    .bukanclearfix {
+    border: solid;
+    border-color: rgb(155, 50, 155);
+    background-color: rgb(255, 228, 251);
+    }
+</style>
